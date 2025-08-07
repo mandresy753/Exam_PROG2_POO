@@ -21,7 +21,6 @@ public class MatchTitre extends Match {
         } else {
             combattant1.egalite();
             combattant2.egalite();
-            // Aucun titre donné
         }
     }
 }
